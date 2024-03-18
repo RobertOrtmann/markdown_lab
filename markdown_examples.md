@@ -36,5 +36,7 @@ pip install -r requirements.txt
 | Jane Smith | 32 | Data Analyst |
 | Emily Davis | 24 | Designer |
 
-! [Markdown
-Logo] (https://www.fnordware.com/superpng/pnggrad16rgb.png)
+
+![Markdown Logo](
+https://www.fnordware.com/superpng/pnggrad16rgb.png
+)
