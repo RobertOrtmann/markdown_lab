@@ -27,3 +27,10 @@ Find out more about Markdown at the [ official website] (https://daringfireball.
 | Robert Ortmann | 45 | Student|
 
 # **Python**
+moja_lista = ["Robert", "Justyna", "David", "Oliver", "Natalia"] 
+
+moja_krotka = ("Robert", "Justyna", "David", "Oliver", "Natalia")
+
+moj_zbior = {Robert", "Justyna", "David", "Oliver", "Natalia"}
+
+moj_slownik = {Robert": 45, "Justyna": 44, "David" : 16, "Oliver": 12, "Natalia": 12}
