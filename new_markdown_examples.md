@@ -38,10 +38,10 @@ moj_zbior = {Robert", "Justyna", "David", "Oliver", "Natalia"}
 moj_slownik = {Robert": 45, "Justyna": 44, "David" : 16, "Oliver": 12, "Natalia": 12}
 
 ## Variables
-liczba = int(5)
+liczba = int(5, 8, 9, 10) 
 
-liczba_przecinkowa = float(5.58)
+liczba_przecinkowa = float(5.58, 8.78)
 
-ciag_znakow = str("Robert")
+ciag_znakow = str("Robert", "Oliver", "Natalia","Justyna")
 
-wartosc_logiczna = bool(True)
+wartosc_logiczna = bool(True, False)
